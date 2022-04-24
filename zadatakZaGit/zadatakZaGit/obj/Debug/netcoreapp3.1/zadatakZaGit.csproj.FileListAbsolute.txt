@@ -1,0 +1,13 @@
+C:\Users\Emilija\source\repos\zadatakZaGit\zadatakZaGit\bin\Debug\netcoreapp3.1\zadatakZaGit.exe
+C:\Users\Emilija\source\repos\zadatakZaGit\zadatakZaGit\bin\Debug\netcoreapp3.1\zadatakZaGit.deps.json
+C:\Users\Emilija\source\repos\zadatakZaGit\zadatakZaGit\bin\Debug\netcoreapp3.1\zadatakZaGit.runtimeconfig.json
+C:\Users\Emilija\source\repos\zadatakZaGit\zadatakZaGit\bin\Debug\netcoreapp3.1\zadatakZaGit.runtimeconfig.dev.json
+C:\Users\Emilija\source\repos\zadatakZaGit\zadatakZaGit\bin\Debug\netcoreapp3.1\zadatakZaGit.dll
+C:\Users\Emilija\source\repos\zadatakZaGit\zadatakZaGit\bin\Debug\netcoreapp3.1\zadatakZaGit.pdb
+C:\Users\Emilija\source\repos\zadatakZaGit\zadatakZaGit\obj\Debug\netcoreapp3.1\zadatakZaGit.csprojAssemblyReference.cache
+C:\Users\Emilija\source\repos\zadatakZaGit\zadatakZaGit\obj\Debug\netcoreapp3.1\zadatakZaGit.AssemblyInfoInputs.cache
+C:\Users\Emilija\source\repos\zadatakZaGit\zadatakZaGit\obj\Debug\netcoreapp3.1\zadatakZaGit.AssemblyInfo.cs
+C:\Users\Emilija\source\repos\zadatakZaGit\zadatakZaGit\obj\Debug\netcoreapp3.1\zadatakZaGit.csproj.CoreCompileInputs.cache
+C:\Users\Emilija\source\repos\zadatakZaGit\zadatakZaGit\obj\Debug\netcoreapp3.1\zadatakZaGit.dll
+C:\Users\Emilija\source\repos\zadatakZaGit\zadatakZaGit\obj\Debug\netcoreapp3.1\zadatakZaGit.pdb
+C:\Users\Emilija\source\repos\zadatakZaGit\zadatakZaGit\obj\Debug\netcoreapp3.1\zadatakZaGit.genruntimeconfig.cache
